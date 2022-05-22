@@ -1,0 +1,34 @@
+body {
+    font-family: 'Special Elite', cursive;
+    background: rgb(255, 255, 255);
+}
+.header_div {
+    background: rgb(121, 151, 159);
+    color: rgb(255, 255, 255);
+}
+.header_div p {
+    color: rgb(228, 219, 219);
+}
+#btnstart {
+    margin-top: 20px;
+    font-family: 'Special Elite', cursive;
+    color: aliceblue;
+    background: rgb(15, 113, 184);
+    width: 70px;
+    border-radius: 10px;
+}
+.copyright_footer{
+    text-align: center;
+    margin-top: 10%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: rgb(121, 151, 159);
+    color: aliceblue;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
